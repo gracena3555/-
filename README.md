@@ -1,5 +1,4 @@
-# Movie Title Keywords Textmining
-## 영화 제목 키워드 빈도 분석 : 독일과 한국 인기 영화에 대한 텍스트 마이닝 분석 및 탐색적 요인 분석
+# Movie Title Keywords Textmining (영화 제목 키워드 빈도 분석 : 독일과 한국 인기 영화에 대한 텍스트 마이닝 분석 및 탐색적 요인 분석)
 
 현재 작업중인 논문을 보고서 형식으로 업로드한 파일입니다.
 
