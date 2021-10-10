@@ -1,3 +1,4 @@
+# Movie Title Keywords Textmining
 # 영화 제목 키워드 빈도 분석 : 독일과 한국 인기 영화에 대한 텍스트 마이닝 분석 및 탐색적 요인 분석
 
 현재 작업중인 논문을 보고서 형식으로 업로드한 파일입니다.
@@ -14,5 +15,5 @@ http://www.koreanfilm.or.kr/eng/news/boxOffice_Yearly.jsp?mode=BOXOFFICE_YEAR&se
 [ 2020년 기준_링크:
 https://www.boxofficemojo.com/year/2020/?sort=grossToDate&area=DE&grossesOption=totalGrosses ]
 
-논문 지도 교수: Prof. Jong-Min Kim of Statistics at University of Minnesota-Morris
+도움을 주신 교수: Prof. Jong-Min Kim of Statistics at University of Minnesota-Morris
 참고 논문: Movie Title Keywords: A Text Mining and Exploratory Factor Analysis of Popular Movies in the United States and China
