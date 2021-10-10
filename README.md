@@ -16,4 +16,3 @@ http://www.koreanfilm.or.kr/eng/news/boxOffice_Yearly.jsp?mode=BOXOFFICE_YEAR&se
 https://www.boxofficemojo.com/year/2020/?sort=grossToDate&area=DE&grossesOption=totalGrosses ]
 
 도움을 주신 교수: Prof. Jong-Min Kim of Statistics at University of Minnesota-Morris
-참고 논문: Movie Title Keywords: A Text Mining and Exploratory Factor Analysis of Popular Movies in the United States and China
